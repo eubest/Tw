@@ -65,7 +65,7 @@ html = `<div id="beginnerProtection" class="vis" border=0>
 <table id="table" width="100%">
     <tbody>
         <tr>
-            <th colspan=8 width=â€œ550â€ style="text-align:center" ><i>Click on the category names to sort ascending/descending</i></th>
+            <th colspan=8 width=“550” style="text-align:center" ><i>Click on the category names to sort ascending/descending</i></th>
         </tr>
         <tr>
             <th width="20%" style="text-align:center" onclick="sortTable(0)">Player</th>
